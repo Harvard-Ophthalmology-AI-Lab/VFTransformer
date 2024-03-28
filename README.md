@@ -17,7 +17,7 @@ import tensorflow as tf
 from vf_tools import *
 import pandas as pd
 
-vfdata = np.load('vfdata.npy',allow_pickle=True)
+vfdata = np.load('data/vfdata.npy',allow_pickle=True)
 age, righteye, duration, centralval, centralprob, md, mdprob, psd, timegap, tds = vfdata[1]
 plot_vf(tds)
 ````
