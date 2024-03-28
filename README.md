@@ -11,7 +11,7 @@ opencv-python 4.5.5
 
 ## Dataset
 
-Here are sample codes to visualize the RNFLT map:
+Here are sample codes to visualize the source 24-2 VF map:
 ````
 import tensorflow as tf
 from vf_tools import *
