@@ -28,6 +28,8 @@ Download the model via this [link](https://drive.google.com/file/d/1Sn7RVzeJvLAY
 
 
 ## Use the Model
+Please refer to example.ipynb.
+
 ````
 # prepare the data
 test_dataset, tds24_test = prepare_data(vfdata)
