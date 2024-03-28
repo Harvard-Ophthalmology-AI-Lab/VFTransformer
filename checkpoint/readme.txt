@@ -1,0 +1,1 @@
+Download the model via this https://drive.google.com/file/d/1Sn7RVzeJvLAYwXF4Dy8a7lDANK13R8sK/view. Unzip the file and put under the "checkpoint" folder.
