@@ -14,7 +14,6 @@ opencv-python 4.5.5
 Here are sample codes to visualize the RNFLT map:
 ````
 import tensorflow as tf
-import os
 from vf_tools import *
 import pandas as pd
 
