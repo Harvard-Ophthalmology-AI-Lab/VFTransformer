@@ -50,7 +50,7 @@ plot_vf(vf10_pred[1], title='predicted 10-2 VF')
 <img src="imgs/Fig2.png" width="300">
 <img src="imgs/Fig3.png" width="300">
 
-## Acknowledgement & Citation
+## Acknowledgement and Citation
 
 
 Coming soon ...
