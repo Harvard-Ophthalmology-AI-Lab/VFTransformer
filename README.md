@@ -1,6 +1,6 @@
 # VFTransformer
 
-The code for the paper entitled **Transformer-based Deep Learning Prediction of 10-Degree Humphrey Visual Field Tests from 24-Degree Data**.
+The code for the paper entitled **Transformer-based Deep Learning Prediction of 10-Degree Humphrey Visual Field Tests from 24-Degree Data**. If you have any questions, please email <harvardophai@gmail.com>.
 
 <img src="imgs/Fig1.png" width="500">
 
